@@ -1,0 +1,1 @@
+The project aimed to predict future retail sales at the store product level using data analytics, data cleaning, and machine learning techniques, specifically a Multiple Linear Regression (MLR) model. The goal was to leverage historical sales data to forecast future sales, providing valuable insights for inventory management and marketing strategies.
